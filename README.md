@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://imgur.com/gTU0dzX">
-    <img src="https://i.imgur.com/gTU0dzX.png" alt="TaskTemp Logo">
+  <a href="https://imgur.com/MrXsmRJ">
+    <img src="https://i.imgur.com/MrXsmRJ.png" alt="TaskTemp Logo">
   </a>
 </p>
 
