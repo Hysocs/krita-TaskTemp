@@ -26,7 +26,7 @@
 ### 🔄 Settings Management
 
 - **Toggle Display Options**: Choose which system metrics to display, including CPU, RAM, and GPU stats.
-- **Update Interval**: Customize how frequently the information is updated.
+- **Update Interval**: Customize how frequently the information is updated. (Soon™)
 
 ---
 
