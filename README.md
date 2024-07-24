@@ -34,8 +34,8 @@
 
 <table>
   <tr>
-    <td><img src="https://pixeldrain.com/u/8guFZ3bm?embed" alt="Screenshot1"></td>
-    <td><img src="https://i.imgur.com/u4SkNyy.png" alt="Screenshot2"></td>
+    <td><img src="https://i.imgur.com/vvSKji4.png" alt="Screenshot1"></td>
+    <td><img src="https://i.imgur.com/plVZJ7u.png" alt="Screenshot2"></td>
   </tr>
 </table>
 
