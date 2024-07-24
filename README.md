@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://imgur.com/MrXsmRJ">
-    <img src="https://i.imgur.com/MrXsmRJ.png" alt="TaskTemp Logo">
-  </a>
-</p>
-
 # TaskTemp - Krita System Monitor Addon
 
 **TaskTemp** is a Krita addon designed to monitor system resources and performance within the Krita application. Created to be used with AI or other system-intensive Krita addons, TaskTemp provides real-time insights into GPU, CPU, and RAM usage to help you optimize your workflow and ensure smooth operation.
